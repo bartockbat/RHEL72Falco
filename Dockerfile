@@ -1,7 +1,7 @@
 #Need to use a base RHEL7 image 
 FROM registry.access.redhat.com/rhel7.2:latest 
 
-MAINTAINER GlenM <gmillard@redhat>
+MAINTAINER Redhat
 
 #copied this from the base Dockerfile
 ENV FALCO_REPOSITORY stable
